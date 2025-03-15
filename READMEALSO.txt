@@ -1,0 +1,1 @@
+Because of a weird glitch, the updated files didn't get transferred to the new computer project. all i changed was moving the tutorial to the main menu. THE TUTORIAL IS IN THE MODES MENU, CLICK MODES TO REACH THE TUTORIAL.
